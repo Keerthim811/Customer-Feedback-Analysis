@@ -1,0 +1,26 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Environment
+.env
+*.env
+venv/
+.envrc
+
+# VS Code
+.vscode/
+
+# Output artifacts
+*.log
+*.tmp
+
+# Data cache
+*.sqlite
+*.db
